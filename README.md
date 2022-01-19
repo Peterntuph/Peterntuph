@@ -16,4 +16,3 @@ I'm a Master Student in Biostatics at University of California, Los Angeles (UCL
 ---
 
 [![Peter's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peterntuph&theme=radical)](https://git.io/streak-stats)
-![image](https://user-images.githubusercontent.com/48342187/150038429-a17ce3a2-2707-44b9-9d39-1f638780ebaf.png)
