@@ -1,7 +1,7 @@
 # README.md
 ### Hi there 👋, this is a brief description of Kuan-Hung (Peter) Yeh  😄
 
-I'm a Master Student in Biostatics at University of California, Los Angeles (UCLA). 
+I'm a PhD Student in Biomedical Informatics at University of California, San Diego (UCSD). 
 
 ![](https://komarev.com/ghpvc/?username=Peterntuph)
 
